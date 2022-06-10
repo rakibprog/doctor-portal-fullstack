@@ -1,0 +1,23 @@
+.appointment-header{
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    
+
+}
+
+.appointment-blur {
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0,0,0,.4);
+    padding-top:30px;
+    padding-bottom: 30px;
+}
+
+.appointment-chair img{
+   width: 100%;
+   height: 100%;
+}
+.appointment-chair {
+    
+}
